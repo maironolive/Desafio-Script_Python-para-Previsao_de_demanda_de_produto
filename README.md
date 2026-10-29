@@ -2,7 +2,7 @@
 
 ## 1. Desafio proposto
 
-Uma das questões do desafio técnico da Indicium Academy AI tem como objetivo construir um modelo baseline para previsão mensal de demanda de um produto específico, auxiliando no planejamento de estoque e na tomada de decisões de compra.
+Uma das questões do desafio técnico da Indicium Academy AI tem como objetivo construir um modelo baseline para previsão mensal de demanda de um produto específico, auxiliando no planejamento de estoque e na tomada de decisões de compra de um e-commerce.
 
 O produto analisado foi a **Bússola de Bordo 702**, utilizando uma média móvel dos últimos três meses como método de previsão.
 
